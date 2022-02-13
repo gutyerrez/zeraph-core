@@ -1,0 +1,22 @@
+{
+  "name": "@vyrnn/zeraph-core",
+  "version": "0.0.1-ALPHA",
+  "author": "Vinícius Gutierrez <srgutyerrez@gmail.com>",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@vyrnn/zeraph-application": "link:../zeraph-application",
+    "@vyrnn/zeraph-cache": "link:../zeraph-cache",
+    "@vyrnn/zeraph-environment": "link:../zeraph-environment",
+    "@vyrnn/zeraph-exceptions": "link:../zeraph-exceptions",
+    "@vyrnn/zeraph-http": "link:../zeraph-http",
+    "@vyrnn/zeraph-provider": "link:../zeraph-provider",
+    "fastify": "^3.27.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.17",
+    "typescript": "^4.5.5"
+  }
+}
