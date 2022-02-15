@@ -1,3 +1,5 @@
+import { Group } from './Group/index'
+
 export * from '@vyrnn/zeraph-exceptions'
 
 export * from '@vyrnn/zeraph-application'
@@ -11,3 +13,7 @@ export * from '@vyrnn/zeraph-provider'
 export * from '@vyrnn/zeraph-cache'
 
 export * from 'luxon'
+
+export {
+  Group
+}
