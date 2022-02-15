@@ -9,6 +9,7 @@
   "dependencies": {
     "@vyrnn/zeraph-application": "link:../zeraph-application",
     "@vyrnn/zeraph-cache": "link:../zeraph-cache",
+    "@vyrnn/zeraph-date": "link:../zeraph-date",
     "@vyrnn/zeraph-environment": "link:../zeraph-environment",
     "@vyrnn/zeraph-exceptions": "link:../zeraph-exceptions",
     "@vyrnn/zeraph-http": "link:../zeraph-http",
