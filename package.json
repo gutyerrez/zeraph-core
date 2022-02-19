@@ -10,6 +10,7 @@
     "@types/luxon": "^2.0.9",
     "@vyrnn/zeraph-application": "link:../zeraph-application",
     "@vyrnn/zeraph-cache": "link:../zeraph-cache",
+    "@vyrnn/zeraph-database": "link:../zeraph-database",
     "@vyrnn/zeraph-environment": "link:../zeraph-environment",
     "@vyrnn/zeraph-exceptions": "link:../zeraph-exceptions",
     "@vyrnn/zeraph-http": "link:../zeraph-http",
